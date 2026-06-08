@@ -1,21 +1,30 @@
-# Data Immersion & Wrangling
+# Data Analytics Task 1 - Data Immersion & Wrangling
 
 ## Objective
-Performed data cleaning and preprocessing on Superstore dataset.
+To acquire, assess, clean, and prepare the dataset for analysis.
 
 ## Tasks Performed
-- Imported dataset using Pandas
-- Checked missing values
-- Checked duplicate records
-- Converted date columns
-- Created Order Year and Order Month columns
-- Generated descriptive statistics
-- Saved cleaned dataset
+- Data Profiling
+- Missing Value Analysis
+- Data Cleaning
+- Duplicate Check
+- Date Conversion
+- Sales Validation
+- Outlier Detection
+
+## Dataset Summary
+- Records: 1000
+- Columns: 12
+- Missing Values: Handled Successfully
+- Duplicate Records: None
+
+## Files
+- Task1.ipynb
+- Cleaned_ApexPlanet_Dataset.xlsx
 
 ## Tools Used
 - Python
 - Pandas
+- NumPy
+- Matplotlib
 - Google Colab
-
-## Dataset
-Superstore Sales Dataset
